@@ -5,5 +5,5 @@ const punchline = document.getElementById('punchline');
 
 // Add an event listener to the button
 jokeBtn.addEventListener('click', function() {
-  console.log('Getting a joke...');``
+  console.log('Getting a joke...');
 });
